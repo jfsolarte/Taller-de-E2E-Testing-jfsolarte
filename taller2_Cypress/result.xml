@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="39.475" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-02-14T04:28:12" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Crear usuarios" timestamp="2019-02-14T04:28:12" tests="1" failures="0" time="8.24">
+    <testcase name="Crear usuarios Visits los estudiantes and create user" time="8.24" classname="Visits los estudiantes and create user">
+    </testcase>
+  </testsuite>
+  <testsuite name="Los estudiantes login" timestamp="2019-02-14T04:28:22" tests="1" failures="0" time="4.866">
+    <testcase name="Los estudiantes login Visits los estudiantes and success at login" time="4.866" classname="Visits los estudiantes and success at login">
+    </testcase>
+  </testsuite>
+  <testsuite name="Crear con un usuario que ya existe" timestamp="2019-02-14T04:28:27" tests="1" failures="0" time="5.99">
+    <testcase name="Crear con un usuario que ya existe Visits los estudiantes and fails create user" time="5.99" classname="Visits los estudiantes and fails create user">
+    </testcase>
+  </testsuite>
+  <testsuite name="Busqueda de profesor" timestamp="2019-02-14T04:28:33" tests="1" failures="0" time="5.038">
+    <testcase name="Busqueda de profesor teacher search" time="5.038" classname="teacher search">
+    </testcase>
+  </testsuite>
+  <testsuite name="Busqueda de profesor y aplicar filtros" timestamp="2019-02-14T04:28:38" tests="1" failures="0" time="15.341">
+    <testcase name="Busqueda de profesor y aplicar filtros teacher search and filter" time="15.341" classname="teacher search and filter">
+    </testcase>
+  </testsuite>
+</testsuites>
